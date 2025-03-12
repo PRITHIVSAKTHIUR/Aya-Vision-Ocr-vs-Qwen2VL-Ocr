@@ -17,8 +17,7 @@ This comparison is conducted for experimental purposes only. Although this is an
 
 This study explores how **lower-parameter models** handle **messy handwriting recognition** compared to more complex **mid-range vision models**.  
 
-
-https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/tBR0YjelJTEKHB_E3biev.mp4
+https://github.com/user-attachments/assets/dfe1b581-9185-4e84-b76f-faaf382c0be8
 
 ### Experiment Details
 
@@ -334,3 +333,10 @@ This is an experimental test to improve **prithivMLmods/Qwen2-VL-OCR-2B-Instruct
 Share your thoughts on the sample cases!  
 
 Thanks for reading!  🤗 
+
+
+
+
+
+
+
