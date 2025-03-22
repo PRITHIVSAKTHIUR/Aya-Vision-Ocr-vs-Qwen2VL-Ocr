@@ -1,7 +1,7 @@
 # Messy Handwriting OCR Comparison Between Aya-Vision-8B and Qwen2VL-OCR-2B
 
+![wx_bXvY4PcjI1Xb95KbOz](https://github.com/user-attachments/assets/c6e7bf7f-4f0b-4664-b06d-52012377ff29)
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/3nhG7kJf6RSbm5Dv-fZg0.png)
 
 This comparison is conducted for experimental purposes only. Although this is an unbalanced comparison between an 8B-parameter model and a 2B-parameter OCR model based on Qwen2VL, the goal is to evaluate how lower-parameter models perform in OCR tasks compared to mid-range consumer models like Aya-Vision-8B.  
 
